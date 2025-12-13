@@ -1,0 +1,9 @@
+MF29|Mohammad Faizaan|200000.0|6000.0|2000.0|Faizaan@29
+AK18|Abhiram Kopishetty|50000.0|1000.0|500.0|Abhiram@18
+IK08|Ishaan Kulkarni|120000.0|4000.0|1000.0|Ishaan@08
+AS01|Ashok Y|110000.0|2000.0|600.0|Ashok@01
+SK09|Salman Khan|5.0E8|4000000.0|1000000.0|Salman@09
+VK18|Virat Kohli|1.0E9|2.0E7|6.0E7|Virat@18
+RM45|Rohit Sharma|6.0E7|300000.0|2000000.0|Rohit@45
+HP33|Hardik Pandya|1000000.0|200000.0|50000.0|Hardik@33
+SKY25|Surya Yadav|50000.0|10000.0|2000.0|Surya@25
