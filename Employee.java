@@ -15,7 +15,6 @@ public class Employee {
         this.password = password;
     }
 
-    // Getters
     public String getId() { return id; }
     public String getName() { return name; }
     public double getBasic() { return basic; }
@@ -23,14 +22,12 @@ public class Employee {
     public double getAllowances() { return allowances; }
     public String getPassword() { return password; }
 
-    // Setters (optional)
     public void setName(String name) { this.name = name; }
     public void setBasic(double basic) { this.basic = basic; }
     public void setHra(double hra) { this.hra = hra; }
     public void setAllowances(double allowances) { this.allowances = allowances; }
     public void setPassword(String password) { this.password = password; }
 
-    @Override
     public String toString() {
         return id + "|" + name + "|" + basic + "|" + hra + "|" + allowances + "|" + password;
     }
